@@ -1,0 +1,54 @@
+[33mcommit be2169c69430205e92309417806f3256f269fc7d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 07cb440 42b6cfc
+Author: SparshJohri2023 <sparshjohri2004@gmail.com>
+Date:   Thu Feb 29 22:09:24 2024 -0800
+
+    Merge branch 'myBranch1' -- first merge of repository
+
+[33mcommit 42b6cfcbcce459a1e2cfc29141388ffbc5a1020b[m
+Author: SparshJohri2023 <sparshjohri2004@gmail.com>
+Date:   Thu Feb 29 22:05:24 2024 -0800
+
+    Created a second branch
+
+[33mcommit eb05f10d4c7fe9e41d2bddaa03e9ec3d6cbb55c2[m
+Author: SparshJohri2023 <sparshjohri2004@gmail.com>
+Date:   Thu Feb 29 22:01:53 2024 -0800
+
+    Altered the text inside the text file
+
+[33mcommit 07cb4409832d43081099ac21dcb66bc54a797a09[m
+Author: SparshJohri2023 <sparshjohri2004@gmail.com>
+Date:   Thu Feb 29 22:00:49 2024 -0800
+
+    Added to the main branch file with real text
+
+[33mcommit 416d60c2911d5232c8d5d940b2ddc5f9c93cabf3[m
+Author: SparshJohri2023 <sparshjohri2004@gmail.com>
+Date:   Thu Feb 29 21:55:27 2024 -0800
+
+    Added a file to main
+
+[33mcommit 4e2887ddc50f44967a9e2969f1f66e7864b2350b[m
+Author: SparshJohri2023 <sparshjohri2004@gmail.com>
+Date:   Thu Feb 29 21:53:37 2024 -0800
+
+    Changed the content of branch1File.txt
+
+[33mcommit 3c6a680451c465909afe75f190a1b1ae7c40a5d8[m
+Author: SparshJohri2023 <sparshjohri2004@gmail.com>
+Date:   Thu Feb 29 21:38:23 2024 -0800
+
+    adding files
+
+[33mcommit 7138d26aaf5e31d668d11042c5085c6d54b106ea[m
+Author: SparshJohri2023 <155264830+SparshJohri2023@users.noreply.github.com>
+Date:   Thu Feb 29 17:39:31 2024 -0800
+
+    Create AdditionalFileInMain
+
+[33mcommit b8222e9fafb99dc9417a72f3bd82a77ea42da4fc[m[33m ([m[1;31morigin/TestBranch[m[33m)[m
+Author: SparshJohri2023 <155264830+SparshJohri2023@users.noreply.github.com>
+Date:   Wed Feb 28 22:39:13 2024 -0800
+
+    Create README.md
